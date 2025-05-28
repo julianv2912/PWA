@@ -2,7 +2,7 @@
   "name": "Hogwarts Characters",
   "short_name": "HP PWA",
   "description": "Personajes de Harry Potter filtrados por casa",
-  "start_url": ".",
+  "start_url": "PWA",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
